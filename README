@@ -1,0 +1,5 @@
+Interface stack is created with three methods definitions in it i.e push(), pop() and display().
+Both FixedStack and VariableStack are initially given the size of value 5.
+For the VariableStack when the size reaches the given size then we increase the size of the stack by a factor of 2 in the extendStack method.
+Push(), pop() and display functions are written.
+Importance of interface is understood.
